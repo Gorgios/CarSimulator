@@ -1,6 +1,7 @@
 # CAR SIMULATOR 
 ## Few words about. 
 This is simple car gauge simulator. As user you can accelerate, break, change gears, turn off/on the car. 
+It's my first JavaFX project.
 ## Technologies 
 In this project i used following techs:
 * Java 8 
